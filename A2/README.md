@@ -1,4 +1,4 @@
-##Brute Force, Pre-Sort, Convex Hull and Quick Hull 
+## Brute Force, Pre-Sort, Convex Hull and Quick Hull 
 
 Connor Todd
 
