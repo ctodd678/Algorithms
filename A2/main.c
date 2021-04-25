@@ -1,8 +1,5 @@
 #include "header.h"
 
-//Feb 22nd, 2021
-//CIS*3490 Assignment 2 - Connor Todd (1039174)
-
 int main(){
 
     FILE *fp1, *fp2;
