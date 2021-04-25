@@ -1,3 +1,5 @@
+##Brute Force, Pre-Sort, Convex Hull and Quick Hull 
+
 Connor Todd
 
 To change the file names edit the main.c file and change the values of the two char[]
