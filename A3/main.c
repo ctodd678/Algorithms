@@ -5,9 +5,6 @@
 #include <math.h>
 #include "header.h"
 
-//March 15th, 2021
-//CIS*3490 Assignment 3 - Connor Todd (1039174)
-
 int main(){
 
     FILE *fp1, *fp2;
