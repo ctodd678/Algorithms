@@ -9,9 +9,6 @@
 double avg_table[MAXTABLE][MAXTABLE];
 int root_table[MAXTABLE][MAXTABLE];
 
-//March 29th, 2021
-//CIS*3490 Assignment 4 - Connor Todd (1039174)
-
 int main(){
 
     FILE *fp1;
